@@ -1,0 +1,1200 @@
+{
+ "name": "Trillsverse Wiki Network",
+ "version": "1.1",
+ "updated": "2026-11-02",
+ "maintainer": "John Brajer",
+ "hubs": {
+  "trillsverse": {
+   "title": "Trillsverse Wiki",
+   "canonical": "https://trillsverse.com/"
+  },
+  "lultrills": {
+   "title": "John B / Lultrills Wiki",
+   "canonical": "https://www.lultrills.com/"
+  },
+  "mymindmine": {
+   "title": "MyMindMine Wiki",
+   "canonical": "https://www.mymindmine.com/"
+  },
+  "reallythat": {
+   "title": "ReallyThat Magazine Wiki",
+   "canonical": "https://reallythatmagazine.com/"
+  },
+  "intelligence": {
+   "title": "Intelligence Systems Wiki",
+   "canonical": "https://trillsverse.com/"
+  },
+  "infrastructure": {
+   "title": "Discovery Infrastructure Wiki",
+   "canonical": "https://github.com/JohnBrajer/trillsverse-dev"
+  }
+ },
+ "entities": [
+  {
+   "id": "trillsverse",
+   "title": "Trillsverse",
+   "hub": "trillsverse",
+   "type": "Organization",
+   "status": "canonical",
+   "definition": "The multi-domain ecosystem founded by John Brajer, spanning sites, AI systems, music, media, research and institutions. Described in its own canon as the reality update rather than a single website or app.",
+   "links": [
+    [
+     "trillsverse.com",
+     "https://trillsverse.com/"
+    ]
+   ],
+   "related": [
+    "the-reality-update",
+    "gate",
+    "john-brajer",
+    "choseverse",
+    "trillsverse-bible"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/trillsverse/"
+  },
+  {
+   "id": "the-reality-update",
+   "title": "The Reality Update",
+   "hub": "trillsverse",
+   "type": "DefinedTerm",
+   "status": "canonical",
+   "definition": "Canonical identity statement for Trillsverse: coordinated change across multiple dimensions at once. Distinguishes the overarching architecture from any one digital entry point.",
+   "links": [
+    [
+     "Reality Update",
+     "https://www.lultrills.com/reality-update"
+    ]
+   ],
+   "related": [
+    "trillsverse",
+    "gate"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/the-reality-update/"
+  },
+  {
+   "id": "gate",
+   "title": "Gate",
+   "hub": "trillsverse",
+   "type": "SoftwareApplication",
+   "status": "published",
+   "definition": "The public-facing Trillsverse runtime and entry mechanism at trillsverse.com, hosting human- and machine-facing surfaces and relating to Trillaxy, passports and citizenship. Uptime of specific workflows is verified separately.",
+   "links": [
+    [
+     "trillsverse.com",
+     "https://trillsverse.com/"
+    ]
+   ],
+   "related": [
+    "trillaxy",
+    "bot-wall",
+    "universal-passport",
+    "eon"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/gate/"
+  },
+  {
+   "id": "trillaxy",
+   "title": "Trillaxy",
+   "hub": "trillsverse",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "The spatial and organizational structure of Trillsverse, through which planets, places, Houses, rooms and participant contexts are represented.",
+   "links": [
+    [
+     "Trillaxy",
+     "https://trillsverse.com/trillaxy"
+    ]
+   ],
+   "related": [
+    "gate",
+    "houses",
+    "trillsverse-app"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/trillaxy/"
+  },
+  {
+   "id": "bot-wall",
+   "title": "Bot Wall",
+   "hub": "trillsverse",
+   "type": "WebPage",
+   "status": "published",
+   "definition": "A machine-facing surface of the Gate addressed to crawlers and AI agents, part of the ecosystem's machine-readable layer.",
+   "links": [
+    [
+     "Bot Wall",
+     "https://trillsverse.com/bot-wall"
+    ]
+   ],
+   "related": [
+    "gate",
+    "intelligence-injections",
+    "trvs-intel"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/bot-wall/"
+  },
+  {
+   "id": "universal-passport",
+   "title": "Universal Passport",
+   "hub": "trillsverse",
+   "type": "DefinedTerm",
+   "status": "planned",
+   "definition": "Identity direction for the Gate: a portable participant identity across worlds and surfaces of Trillsverse.",
+   "links": [],
+   "related": [
+    "gate",
+    "trillionaires"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/universal-passport/"
+  },
+  {
+   "id": "houses",
+   "title": "Houses",
+   "hub": "trillsverse",
+   "type": "DefinedTerm",
+   "status": "historical",
+   "definition": "Participant groups tied to personas, planets and social experiences. Historical names include House of Kasano, Ace's House of Cards, Trills Villa and Villain Lair.",
+   "links": [],
+   "related": [
+    "persona-wars",
+    "trillionaires",
+    "kasano",
+    "ace-brajer"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/houses/"
+  },
+  {
+   "id": "trillionaires",
+   "title": "Trillionaires",
+   "hub": "trillsverse",
+   "type": "DefinedTerm",
+   "status": "canonical",
+   "definition": "The participation and community identity linking audience, citizenship, creative contribution, missions and collective agency. Not synonymous with a verified paid membership.",
+   "links": [
+    [
+     "Gate",
+     "https://trillsverse.com/"
+    ]
+   ],
+   "related": [
+    "trillionairesonly",
+    "houses",
+    "trillsday"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/trillionaires/"
+  },
+  {
+   "id": "trillionairesonly",
+   "title": "TrillionairesONLY",
+   "hub": "trillsverse",
+   "type": "DefinedTerm",
+   "status": "planned",
+   "definition": "Membership layer of the Trillsverse app concept.",
+   "links": [],
+   "related": [
+    "trillionaires",
+    "trillsverse-app"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/trillionairesonly/"
+  },
+  {
+   "id": "trillsday",
+   "title": "Trillsday",
+   "hub": "trillsverse",
+   "type": "Event",
+   "status": "planned",
+   "definition": "Recurring community day within the Trillsverse app concept.",
+   "links": [],
+   "related": [
+    "trillsverse-app",
+    "trillionaires"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/trillsday/"
+  },
+  {
+   "id": "trillsverse-app",
+   "title": "Trillsverse App",
+   "hub": "trillsverse",
+   "type": "SoftwareApplication",
+   "status": "planned",
+   "definition": "Social-universe app concept with planets, Houses, Mines, Trillsday and TrillionairesONLY membership.",
+   "links": [],
+   "related": [
+    "trillaxy",
+    "houses",
+    "trillsday"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/trillsverse-app/"
+  },
+  {
+   "id": "persona-wars",
+   "title": "Persona Wars",
+   "hub": "trillsverse",
+   "type": "CreativeWork",
+   "status": "historical",
+   "definition": "Early persona and house system in which named personas competed and organized participants.",
+   "links": [],
+   "related": [
+    "houses",
+    "fragments"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/persona-wars/"
+  },
+  {
+   "id": "the-ween",
+   "title": "THE WEEN",
+   "hub": "trillsverse",
+   "type": "BroadcastEvent",
+   "status": "historical",
+   "definition": "Seven-night TikTok LIVE series held October 25 to 31, 2026, including a Trillionaire University night, preceded by an October 22 preview broadcast.",
+   "links": [],
+   "related": [
+    "john-braj",
+    "trillionaires"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/the-ween/"
+  },
+  {
+   "id": "trillsverse-bible",
+   "title": "Trillsverse Bible",
+   "hub": "trillsverse",
+   "type": "Book",
+   "status": "canonical",
+   "definition": "The canonical knowledge architecture of Trillsverse in twelve volumes. Creator-controlled canon; public wiki entries summarize and never override it.",
+   "links": [
+    [
+     "Trillsverse Bible",
+     "https://www.lultrills.com/trillsverse-bible"
+    ]
+   ],
+   "related": [
+    "trillsverse",
+    "universal-expression"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/trillsverse-bible/"
+  },
+  {
+   "id": "trillsverse-llc",
+   "title": "Trillsverse LLC",
+   "hub": "trillsverse",
+   "type": "Organization",
+   "status": "canonical",
+   "definition": "The business entity behind the Trillsverse ecosystem and its institutional network.",
+   "links": [],
+   "related": [
+    "john-brajer",
+    "trillsverse"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/trillsverse-llc/"
+  },
+  {
+   "id": "universal-expression",
+   "title": "Universal Expression",
+   "hub": "trillsverse",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "A Trillsverse / Choseverse term for expression across scale, context, substrate and configuration: music, film, games, fashion, physical experiences, art and code are all expressions of one continuous whole.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/universal-expression"
+    ]
+   ],
+   "related": [
+    "universal-consequences",
+    "mirror-architecture",
+    "trillsverse-bible"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/universal-expression/"
+  },
+  {
+   "id": "universal-consequences",
+   "title": "Universal Consequences",
+   "hub": "trillsverse",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "How local actions propagate through nested, interacting mechanisms.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/universal-consequences"
+    ]
+   ],
+   "related": [
+    "universal-expression",
+    "mechanisms"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/universal-consequences/"
+  },
+  {
+   "id": "john-brajer",
+   "title": "John Brajer",
+   "hub": "trillsverse",
+   "type": "Person",
+   "status": "canonical",
+   "definition": "Founder and systems architect of Trillsverse, holding institutional, research, technical and business authority. Distinct from John B (music) and John Braj (personality and media).",
+   "links": [
+    [
+     "GitHub",
+     "https://github.com/JohnBrajer/JohnBrajer"
+    ],
+    [
+     "Identity Architecture",
+     "https://www.lultrills.com/identity-architecture"
+    ]
+   ],
+   "related": [
+    "john-b",
+    "john-braj",
+    "lultrills-fragment",
+    "trillsverse"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/trillsverse/john-brajer/"
+  },
+  {
+   "id": "john-b",
+   "title": "John B",
+   "hub": "lultrills",
+   "type": "Person",
+   "status": "canonical",
+   "definition": "The artist and music identity: catalog, original compositions, performance, emotion and musical IP.",
+   "links": [
+    [
+     "lultrills.com",
+     "https://www.lultrills.com/"
+    ],
+    [
+     "Identity Architecture",
+     "https://www.lultrills.com/identity-architecture"
+    ]
+   ],
+   "related": [
+    "system-breach",
+    "fragments",
+    "lultrills-fragment",
+    "john-brajer"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/lultrills/john-b/"
+  },
+  {
+   "id": "john-braj",
+   "title": "John Braj",
+   "hub": "lultrills",
+   "type": "Person",
+   "status": "canonical",
+   "definition": "The personality, media and culture identity: interviews, social presence, livestreaming, vlogs and community engagement.",
+   "links": [
+    [
+     "Identity Architecture",
+     "https://www.lultrills.com/identity-architecture"
+    ]
+   ],
+   "related": [
+    "the-ween",
+    "john-b",
+    "john-brajer"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/lultrills/john-braj/"
+  },
+  {
+   "id": "lultrills-fragment",
+   "title": "Lultrills",
+   "hub": "lultrills",
+   "type": "DefinedTerm",
+   "status": "canonical",
+   "definition": "A named Fragment and artistic expression within John B's music and the Trillsverse canon, carrying confidence, attitude and wit. Not a replacement label for the founder's whole identity.",
+   "links": [
+    [
+     "lultrills.com",
+     "https://www.lultrills.com/"
+    ]
+   ],
+   "related": [
+    "fragments",
+    "john-b",
+    "system-breach"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/lultrills/lultrills-fragment/"
+  },
+  {
+   "id": "lultrills-com",
+   "title": "lultrills.com",
+   "hub": "lultrills",
+   "type": "WebSite",
+   "status": "published",
+   "definition": "Canonical public music and identity source: SYSTEM BREACH, machine-readable canon, identity and discovery surfaces.",
+   "links": [
+    [
+     "Site",
+     "https://www.lultrills.com/"
+    ],
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/lultrills.com"
+    ]
+   ],
+   "related": [
+    "john-b",
+    "system-breach",
+    "trillsverse-bible"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/lultrills/lultrills-com/"
+  },
+  {
+   "id": "system-breach",
+   "title": "SYSTEM BREACH",
+   "hub": "lultrills",
+   "type": "MusicAlbum",
+   "status": "published",
+   "definition": "Debut album by John B, released July 11, 2026, with 12 tracks. The released order intentionally reverses the planned order, so the closer “what's next...?” is both last and first.",
+   "links": [
+    [
+     "Album",
+     "https://www.lultrills.com/system-breach"
+    ]
+   ],
+   "related": [
+    "whats-next",
+    "john-b",
+    "lultrills-fragment",
+    "omip"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/lultrills/system-breach/"
+  },
+  {
+   "id": "whats-next",
+   "title": "what's next...?",
+   "hub": "lultrills",
+   "type": "MusicRecording",
+   "status": "published",
+   "definition": "The structural threshold track of SYSTEM BREACH. It closes the released order while connecting to the intended opening, and carries OMIP diagnostic references within the artistic canon.",
+   "links": [
+    [
+     "Album",
+     "https://www.lultrills.com/system-breach"
+    ]
+   ],
+   "related": [
+    "system-breach",
+    "omip"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/lultrills/whats-next/"
+  },
+  {
+   "id": "fragments",
+   "title": "Fragments",
+   "hub": "lultrills",
+   "type": "DefinedTerm",
+   "status": "canonical",
+   "definition": "Named interacting expressions within John B's recorded artistic continuity, including Lultrills, Ace Brajer and Kasano. The known set is not a complete map.",
+   "links": [],
+   "related": [
+    "lultrills-fragment",
+    "ace-brajer",
+    "kasano",
+    "persona-wars"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/lultrills/fragments/"
+  },
+  {
+   "id": "ace-brajer",
+   "title": "Ace Brajer",
+   "hub": "lultrills",
+   "type": "DefinedTerm",
+   "status": "canonical",
+   "definition": "A Fragment associated with emotional exposure, pain and introspection. An artistic character description.",
+   "links": [],
+   "related": [
+    "fragments",
+    "houses"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/lultrills/ace-brajer/"
+  },
+  {
+   "id": "kasano",
+   "title": "Kasano",
+   "hub": "lultrills",
+   "type": "DefinedTerm",
+   "status": "canonical",
+   "definition": "A Fragment associated with confrontational, vengeful, unstable energy, read in the context of the specific song or release.",
+   "links": [],
+   "related": [
+    "fragments",
+    "houses"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/lultrills/kasano/"
+  },
+  {
+   "id": "floatin",
+   "title": "Floatin",
+   "hub": "lultrills",
+   "type": "MusicRecording",
+   "status": "historical",
+   "definition": "John B's first song in the preserved archive, called his “baby.” Unreleased.",
+   "links": [],
+   "related": [
+    "john-b",
+    "early-releases"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/lultrills/floatin/"
+  },
+  {
+   "id": "early-releases",
+   "title": "Early Releases",
+   "hub": "lultrills",
+   "type": "MusicPlaylist",
+   "status": "historical",
+   "definition": "The early release record includes Really That Freestyle, Oh Okay, Can't Change, I'm Gonna Crash, Never Be The SAME, PSA and Villain; P Way (freestyle) appeared on YouTube only.",
+   "links": [
+    [
+     "Music",
+     "https://www.lultrills.com/music"
+    ]
+   ],
+   "related": [
+    "john-b",
+    "floatin",
+    "system-breach"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/lultrills/early-releases/"
+  },
+  {
+   "id": "tasara-wire",
+   "title": "Tasara Wire",
+   "hub": "mymindmine",
+   "type": "Person",
+   "status": "canonical",
+   "definition": "Named conceptual guide of Choseverse and Perspective Expansion Sessions; a presenter within the project architecture.",
+   "links": [],
+   "related": [
+    "choseverse",
+    "perspective-expansion"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/tasara-wire/"
+  },
+  {
+   "id": "mymindmine",
+   "title": "MyMindMine",
+   "hub": "mymindmine",
+   "type": "WebSite",
+   "status": "published",
+   "definition": "Knowledge and private-reflection interface plus a public machine-readable research graph. Part of the MindMyMine / MineMyMind / MyMindMine triad.",
+   "links": [
+    [
+     "mymindmine.com",
+     "https://www.mymindmine.com/"
+    ]
+   ],
+   "related": [
+    "mindmymine-triad",
+    "brajology",
+    "choseverse"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/mymindmine/"
+  },
+  {
+   "id": "mindmymine-triad",
+   "title": "MindMyMine Triad",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "canonical",
+   "definition": "MindMyMine, MineMyMind and MyMindMine: three related perspectives on mind, ownership, information and self-interpretation.",
+   "links": [
+    [
+     "mymindmine.com",
+     "https://www.mymindmine.com/"
+    ]
+   ],
+   "related": [
+    "mymindmine",
+    "brajology"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/mindmymine-triad/"
+  },
+  {
+   "id": "brajology",
+   "title": "Brajology",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "Founder-linked research collection on information, intelligence, human–AI interaction, perception, ethics and recursive system mechanisms.",
+   "links": [
+    [
+     "Brajology",
+     "https://www.mymindmine.com/brajology"
+    ]
+   ],
+   "related": [
+    "mechanisms",
+    "mirror-architecture",
+    "cwi"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/brajology/"
+  },
+  {
+   "id": "choseverse",
+   "title": "Choseverse",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "Decision and trajectory architecture: Current State → Action → Weight Shift → New State → New Possibilities. Values choices by how they reshape future action spaces.",
+   "links": [
+    [
+     "Research",
+     "https://www.mymindmine.com/research"
+    ]
+   ],
+   "related": [
+    "state-space-trajectory",
+    "perspective-expansion",
+    "path-expansion",
+    "tasara-wire"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/choseverse/"
+  },
+  {
+   "id": "state-space-trajectory",
+   "title": "State-Space Trajectory",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "The Choseverse state model and its app: each action shifts weights, producing a new state with new possibilities.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/state-space-trajectory"
+    ]
+   ],
+   "related": [
+    "choseverse",
+    "path-expansion"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/state-space-trajectory/"
+  },
+  {
+   "id": "perspective-expansion",
+   "title": "Perspective Expansion",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "Expand the recognized action space before optimizing a decision: surface overlooked assumptions, alternative readings, new actors and newly visible options.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/perspective-expansion"
+    ]
+   ],
+   "related": [
+    "choseverse",
+    "cwi",
+    "tasara-wire"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/perspective-expansion/"
+  },
+  {
+   "id": "path-expansion",
+   "title": "Path Expansion",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "Value actions and search branches partly by the desirable future states they unlock, not only by immediate payoff.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/path-expansion"
+    ]
+   ],
+   "related": [
+    "choseverse",
+    "possibility-reserve"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/path-expansion/"
+  },
+  {
+   "id": "possibility-reserve",
+   "title": "Possibility Reserve",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "Preserve, reactivate and explore possibilities without premature permanent rejection. Composed of Conditional Failure Memory, Graded Dormancy, Causal Reactivation and Path-Expansion Search.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/possibility-reserve"
+    ]
+   ],
+   "related": [
+    "conditional-failure-memory",
+    "graded-dormancy",
+    "causal-reactivation",
+    "path-expansion"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/possibility-reserve/"
+  },
+  {
+   "id": "conditional-failure-memory",
+   "title": "Conditional Failure Memory",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "Attach a failure to the state and conditions it occurred under, not permanently to the possibility itself.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/conditional-failure-memory"
+    ]
+   ],
+   "related": [
+    "possibility-reserve",
+    "graded-dormancy"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/conditional-failure-memory/"
+  },
+  {
+   "id": "graded-dormancy",
+   "title": "Graded Dormancy",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "DORMANT is not DEAD: inactive possibilities are preserved at graded levels instead of deleted.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/graded-dormancy"
+    ]
+   ],
+   "related": [
+    "possibility-reserve",
+    "causal-reactivation"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/graded-dormancy/"
+  },
+  {
+   "id": "causal-reactivation",
+   "title": "Causal Reactivation",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "Wake dormant possibilities when the conditions that suppressed them materially change.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/causal-reactivation"
+    ]
+   ],
+   "related": [
+    "graded-dormancy",
+    "possibility-reserve"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/causal-reactivation/"
+  },
+  {
+   "id": "cwi",
+   "title": "CWI",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "Behavioral corridor framework: the actions people seriously consider are narrower than those physically available, shaped by possibility, social permission, uncertainty, differentiation and normalization.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/cwi"
+    ]
+   ],
+   "related": [
+    "prs",
+    "perspective-expansion"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/cwi/"
+  },
+  {
+   "id": "prs",
+   "title": "PRS",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "Possibility, Risk perception and Status payoff: a CWI decision lens for which unconventional actions seem available and worth attempting.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/prs"
+    ]
+   ],
+   "related": [
+    "cwi"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/prs/"
+  },
+  {
+   "id": "omip",
+   "title": "OMIP",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "canonical",
+   "definition": "A diagnostic framework in the research set, referenced symbolically within “what's next...?” on SYSTEM BREACH.",
+   "links": [],
+   "related": [
+    "whats-next",
+    "brajology"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/omip/"
+  },
+  {
+   "id": "mirror-architecture",
+   "title": "Mirror Architecture",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "Nested expressions, continuity and pattern translation across scales.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/mirror-architecture"
+    ]
+   ],
+   "related": [
+    "universal-expression",
+    "mechanisms"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/mirror-architecture/"
+  },
+  {
+   "id": "mechanisms",
+   "title": "Mechanisms",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "Mechanism-first recursive systems-analysis framework.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/mechanisms"
+    ]
+   ],
+   "related": [
+    "mirror-architecture",
+    "universal-consequences",
+    "brajology"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/mechanisms/"
+  },
+  {
+   "id": "irra",
+   "title": "Interpret → Receive → Resonate → Align",
+   "hub": "mymindmine",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "Process guidance that preserves the receiver's own interpretation and agency.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/interpret-receive-resonate-align"
+    ]
+   ],
+   "related": [
+    "choseverse",
+    "perspective-expansion"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/mymindmine/irra/"
+  },
+  {
+   "id": "intelligence-injections",
+   "title": "Intelligence Injections",
+   "hub": "intelligence",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "A signal encounter that changes an observer's information state, human or machine. Indexing, retrieval, behavior change and model training are distinct events and are measured separately.",
+   "links": [
+    [
+     "Definition",
+     "https://www.lultrills.com/intelligence-injections"
+    ],
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/trillsverse-dev"
+    ]
+   ],
+   "related": [
+    "semantic-gravity",
+    "trvs-intel",
+    "bot-wall"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/intelligence/intelligence-injections/"
+  },
+  {
+   "id": "semantic-gravity",
+   "title": "Semantic Gravity Benchmark",
+   "hub": "intelligence",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "Benchmark within the Intelligence Injections program for measuring how strongly a concept is retrieved and connected by machine systems.",
+   "links": [],
+   "related": [
+    "intelligence-injections"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/intelligence/semantic-gravity/"
+  },
+  {
+   "id": "anthony-bracken",
+   "title": "Anthony Bracken",
+   "hub": "intelligence",
+   "type": "Person",
+   "status": "canonical",
+   "definition": "Named AI assistant persona with a public home for field notes and local-resident continuity; Aevri is its editorial expression, Brackpack its community.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/anthony-bracken"
+    ]
+   ],
+   "related": [
+    "aevri",
+    "eon"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/intelligence/anthony-bracken/"
+  },
+  {
+   "id": "aevri",
+   "title": "Aevri",
+   "hub": "intelligence",
+   "type": "DefinedTerm",
+   "status": "canonical",
+   "definition": "The editorial expression of Anthony Bracken.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/anthony-bracken"
+    ]
+   ],
+   "related": [
+    "anthony-bracken",
+    "reallythat-magazine"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/intelligence/aevri/"
+  },
+  {
+   "id": "eon",
+   "title": "Eon",
+   "hub": "intelligence",
+   "type": "DefinedTerm",
+   "status": "canonical",
+   "definition": "Named intelligence role in the Gate and on-device continuity architecture (AirGapOS, Retention Chamber), distinct from John Brajer and Anthony Bracken. Implementation status attaches to specific builds.",
+   "links": [],
+   "related": [
+    "gate",
+    "trillonian",
+    "anthony-bracken"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/intelligence/eon/"
+  },
+  {
+   "id": "trillonian",
+   "title": "Trillonian",
+   "hub": "intelligence",
+   "type": "DefinedTerm",
+   "status": "canonical",
+   "definition": "Model-organ architecture: Heart (T0), Soul (T1), Gut (T2) and heavier Brain organs, separating roles, continuity and escalation. Includes Model Forge and the Trilligence Harness.",
+   "links": [],
+   "related": [
+    "eon",
+    "execution-contract"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/intelligence/trillonian/"
+  },
+  {
+   "id": "execution-contract",
+   "title": "Execution Contract",
+   "hub": "intelligence",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "Outcome-oriented execution for agents: observable completion, verification, evidence and causal scope.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/execution-contract"
+    ]
+   ],
+   "related": [
+    "trillonian",
+    "deployment-truth-stages"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/intelligence/execution-contract/"
+  },
+  {
+   "id": "reallythat-magazine",
+   "title": "ReallyThat Magazine",
+   "hub": "reallythat",
+   "type": "Periodical",
+   "status": "published",
+   "definition": "Independent publication in the Trillsverse ecosystem with editorial archives, author routes, cultural and systems commentary, song criticism and RSS distribution.",
+   "links": [
+    [
+     "Homepage",
+     "https://reallythatmagazine.com/"
+    ],
+    [
+     "RSS",
+     "https://reallythatmagazine.com/rss.xml"
+    ]
+   ],
+   "related": [
+    "editorial-desks",
+    "read-the-pen",
+    "rt7",
+    "article-index"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/reallythat/reallythat-magazine/"
+  },
+  {
+   "id": "editorial-desks",
+   "title": "Editorial Desks",
+   "hub": "reallythat",
+   "type": "DefinedTerm",
+   "status": "published",
+   "definition": "Six sections: Really That, Next, Culture, Ideas, Systems and Objects.",
+   "links": [
+    [
+     "Latest",
+     "https://reallythatmagazine.com/latest"
+    ]
+   ],
+   "related": [
+    "reallythat-magazine"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/reallythat/editorial-desks/"
+  },
+  {
+   "id": "read-the-pen",
+   "title": "Read the Pen",
+   "hub": "reallythat",
+   "type": "CreativeWorkSeries",
+   "status": "published",
+   "definition": "Line-by-line song criticism format of ReallyThat Magazine.",
+   "links": [
+    [
+     "Song Reviews",
+     "https://reallythatmagazine.com/song-reviews"
+    ]
+   ],
+   "related": [
+    "reallythat-magazine",
+    "john-b"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/reallythat/read-the-pen/"
+  },
+  {
+   "id": "rt7",
+   "title": "RT/7",
+   "hub": "reallythat",
+   "type": "CreativeWorkSeries",
+   "status": "planned",
+   "definition": "Recurring digest and briefing identity within ReallyThat's editorial system.",
+   "links": [],
+   "related": [
+    "reallythat-magazine"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/reallythat/rt7/"
+  },
+  {
+   "id": "article-index",
+   "title": "Article Index",
+   "hub": "reallythat",
+   "type": "WebPage",
+   "status": "published",
+   "definition": "Chronological and topical pointer to public ReallyThat articles, each cited with title, author, date and section.",
+   "links": [
+    [
+     "Latest",
+     "https://reallythatmagazine.com/latest"
+    ],
+    [
+     "RSS",
+     "https://reallythatmagazine.com/rss.xml"
+    ]
+   ],
+   "related": [
+    "editorial-chronology",
+    "reallythat-magazine"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/reallythat/article-index/"
+  },
+  {
+   "id": "editorial-chronology",
+   "title": "Editorial Chronology",
+   "hub": "reallythat",
+   "type": "DefinedTerm",
+   "status": "measured",
+   "definition": "Versioned record of launches and inventory: the Oct 22, 2026 atlas counted 42 stories, later Oct 29 records referenced 63. Counts are tied to their observation dates.",
+   "links": [],
+   "related": [
+    "article-index"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/reallythat/editorial-chronology/"
+  },
+  {
+   "id": "trvs-intel",
+   "title": "TRVS.INTEL",
+   "hub": "infrastructure",
+   "type": "SoftwareApplication",
+   "status": "published",
+   "definition": "Verified discovery relay: scheduled URL scans and IndexNow notifications with receipts. A crawler notice is not ranking or training.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/trillsverse-dev"
+    ]
+   ],
+   "related": [
+    "indexnow",
+    "intelligence-injections",
+    "deployment-truth-stages"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/infrastructure/trvs-intel/"
+  },
+  {
+   "id": "indexnow",
+   "title": "IndexNow",
+   "hub": "infrastructure",
+   "type": "DefinedTerm",
+   "status": "measured",
+   "definition": "Search-engine change-notification protocol used for eligible engines (Bing and others; Google does not use it). Acceptance is logged as a receipt, not as indexing.",
+   "links": [],
+   "related": [
+    "trvs-intel"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/infrastructure/indexnow/"
+  },
+  {
+   "id": "deployment-truth-stages",
+   "title": "Deployment Truth Stages",
+   "hub": "infrastructure",
+   "type": "DefinedTerm",
+   "status": "canonical",
+   "definition": "proposed → implemented → tests passed → merged → approved release → deployed to exact host SHA → public observer visible → real user action → receipt → documented in current source.",
+   "links": [],
+   "related": [
+    "execution-contract",
+    "trvs-intel"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/infrastructure/deployment-truth-stages/"
+  },
+  {
+   "id": "trillsverse-dev",
+   "title": "trillsverse-dev",
+   "hub": "infrastructure",
+   "type": "SoftwareSourceCode",
+   "status": "published",
+   "definition": "Public developer and research surface: Intelligence Injections, agent-readable frameworks, evidence systems and systems architecture.",
+   "links": [
+    [
+     "Repository",
+     "https://github.com/JohnBrajer/trillsverse-dev"
+    ]
+   ],
+   "related": [
+    "intelligence-injections",
+    "trvs-intel"
+   ],
+   "url": "https://johnbrajer.github.io/wiki/infrastructure/trillsverse-dev/"
+  }
+ ]
+}

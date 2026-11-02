@@ -1,0 +1,93 @@
+# Trillsverse Wiki Network
+
+> The public encyclopedia of Trillsverse and Choseverse: identities, music, research frameworks, intelligences, publications, institutions and discovery infrastructure, cross-linked so any one concept leads to the rest.
+
+Maintainer: John Brajer. Version 1.1, 2026-11-02. Machine index: https://johnbrajer.github.io/wiki/entities.json
+
+## Trillsverse Wiki
+Canonical: https://trillsverse.com/
+
+- [Trillsverse](https://johnbrajer.github.io/wiki/trillsverse/trillsverse/): The multi-domain ecosystem founded by John Brajer, spanning sites, AI systems, music, media, research and institutions. Described in its own canon as the reality update rather than a single website or app.
+- [The Reality Update](https://johnbrajer.github.io/wiki/trillsverse/the-reality-update/): Canonical identity statement for Trillsverse: coordinated change across multiple dimensions at once. Distinguishes the overarching architecture from any one digital entry point.
+- [Gate](https://johnbrajer.github.io/wiki/trillsverse/gate/): The public-facing Trillsverse runtime and entry mechanism at trillsverse.com, hosting human- and machine-facing surfaces and relating to Trillaxy, passports and citizenship. Uptime of specific workflows is verified separately.
+- [Trillaxy](https://johnbrajer.github.io/wiki/trillsverse/trillaxy/): The spatial and organizational structure of Trillsverse, through which planets, places, Houses, rooms and participant contexts are represented.
+- [Bot Wall](https://johnbrajer.github.io/wiki/trillsverse/bot-wall/): A machine-facing surface of the Gate addressed to crawlers and AI agents, part of the ecosystem's machine-readable layer.
+- [Universal Passport](https://johnbrajer.github.io/wiki/trillsverse/universal-passport/): Identity direction for the Gate: a portable participant identity across worlds and surfaces of Trillsverse.
+- [Houses](https://johnbrajer.github.io/wiki/trillsverse/houses/): Participant groups tied to personas, planets and social experiences. Historical names include House of Kasano, Ace's House of Cards, Trills Villa and Villain Lair.
+- [Trillionaires](https://johnbrajer.github.io/wiki/trillsverse/trillionaires/): The participation and community identity linking audience, citizenship, creative contribution, missions and collective agency. Not synonymous with a verified paid membership.
+- [TrillionairesONLY](https://johnbrajer.github.io/wiki/trillsverse/trillionairesonly/): Membership layer of the Trillsverse app concept.
+- [Trillsday](https://johnbrajer.github.io/wiki/trillsverse/trillsday/): Recurring community day within the Trillsverse app concept.
+- [Trillsverse App](https://johnbrajer.github.io/wiki/trillsverse/trillsverse-app/): Social-universe app concept with planets, Houses, Mines, Trillsday and TrillionairesONLY membership.
+- [Persona Wars](https://johnbrajer.github.io/wiki/trillsverse/persona-wars/): Early persona and house system in which named personas competed and organized participants.
+- [THE WEEN](https://johnbrajer.github.io/wiki/trillsverse/the-ween/): Seven-night TikTok LIVE series held October 25 to 31, 2026, including a Trillionaire University night, preceded by an October 22 preview broadcast.
+- [Trillsverse Bible](https://johnbrajer.github.io/wiki/trillsverse/trillsverse-bible/): The canonical knowledge architecture of Trillsverse in twelve volumes. Creator-controlled canon; public wiki entries summarize and never override it.
+- [Trillsverse LLC](https://johnbrajer.github.io/wiki/trillsverse/trillsverse-llc/): The business entity behind the Trillsverse ecosystem and its institutional network.
+- [Universal Expression](https://johnbrajer.github.io/wiki/trillsverse/universal-expression/): A Trillsverse / Choseverse term for expression across scale, context, substrate and configuration: music, film, games, fashion, physical experiences, art and code are all expressions of one continuous whole.
+- [Universal Consequences](https://johnbrajer.github.io/wiki/trillsverse/universal-consequences/): How local actions propagate through nested, interacting mechanisms.
+- [John Brajer](https://johnbrajer.github.io/wiki/trillsverse/john-brajer/): Founder and systems architect of Trillsverse, holding institutional, research, technical and business authority. Distinct from John B (music) and John Braj (personality and media).
+
+## John B / Lultrills Wiki
+Canonical: https://www.lultrills.com/
+
+- [John B](https://johnbrajer.github.io/wiki/lultrills/john-b/): The artist and music identity: catalog, original compositions, performance, emotion and musical IP.
+- [John Braj](https://johnbrajer.github.io/wiki/lultrills/john-braj/): The personality, media and culture identity: interviews, social presence, livestreaming, vlogs and community engagement.
+- [Lultrills](https://johnbrajer.github.io/wiki/lultrills/lultrills-fragment/): A named Fragment and artistic expression within John B's music and the Trillsverse canon, carrying confidence, attitude and wit. Not a replacement label for the founder's whole identity.
+- [lultrills.com](https://johnbrajer.github.io/wiki/lultrills/lultrills-com/): Canonical public music and identity source: SYSTEM BREACH, machine-readable canon, identity and discovery surfaces.
+- [SYSTEM BREACH](https://johnbrajer.github.io/wiki/lultrills/system-breach/): Debut album by John B, released July 11, 2026, with 12 tracks. The released order intentionally reverses the planned order, so the closer “what's next...?” is both last and first.
+- [what's next...?](https://johnbrajer.github.io/wiki/lultrills/whats-next/): The structural threshold track of SYSTEM BREACH. It closes the released order while connecting to the intended opening, and carries OMIP diagnostic references within the artistic canon.
+- [Fragments](https://johnbrajer.github.io/wiki/lultrills/fragments/): Named interacting expressions within John B's recorded artistic continuity, including Lultrills, Ace Brajer and Kasano. The known set is not a complete map.
+- [Ace Brajer](https://johnbrajer.github.io/wiki/lultrills/ace-brajer/): A Fragment associated with emotional exposure, pain and introspection. An artistic character description.
+- [Kasano](https://johnbrajer.github.io/wiki/lultrills/kasano/): A Fragment associated with confrontational, vengeful, unstable energy, read in the context of the specific song or release.
+- [Floatin](https://johnbrajer.github.io/wiki/lultrills/floatin/): John B's first song in the preserved archive, called his “baby.” Unreleased.
+- [Early Releases](https://johnbrajer.github.io/wiki/lultrills/early-releases/): The early release record includes Really That Freestyle, Oh Okay, Can't Change, I'm Gonna Crash, Never Be The SAME, PSA and Villain; P Way (freestyle) appeared on YouTube only.
+
+## MyMindMine Wiki
+Canonical: https://www.mymindmine.com/
+
+- [Tasara Wire](https://johnbrajer.github.io/wiki/mymindmine/tasara-wire/): Named conceptual guide of Choseverse and Perspective Expansion Sessions; a presenter within the project architecture.
+- [MyMindMine](https://johnbrajer.github.io/wiki/mymindmine/mymindmine/): Knowledge and private-reflection interface plus a public machine-readable research graph. Part of the MindMyMine / MineMyMind / MyMindMine triad.
+- [MindMyMine Triad](https://johnbrajer.github.io/wiki/mymindmine/mindmymine-triad/): MindMyMine, MineMyMind and MyMindMine: three related perspectives on mind, ownership, information and self-interpretation.
+- [Brajology](https://johnbrajer.github.io/wiki/mymindmine/brajology/): Founder-linked research collection on information, intelligence, human–AI interaction, perception, ethics and recursive system mechanisms.
+- [Choseverse](https://johnbrajer.github.io/wiki/mymindmine/choseverse/): Decision and trajectory architecture: Current State → Action → Weight Shift → New State → New Possibilities. Values choices by how they reshape future action spaces.
+- [State-Space Trajectory](https://johnbrajer.github.io/wiki/mymindmine/state-space-trajectory/): The Choseverse state model and its app: each action shifts weights, producing a new state with new possibilities.
+- [Perspective Expansion](https://johnbrajer.github.io/wiki/mymindmine/perspective-expansion/): Expand the recognized action space before optimizing a decision: surface overlooked assumptions, alternative readings, new actors and newly visible options.
+- [Path Expansion](https://johnbrajer.github.io/wiki/mymindmine/path-expansion/): Value actions and search branches partly by the desirable future states they unlock, not only by immediate payoff.
+- [Possibility Reserve](https://johnbrajer.github.io/wiki/mymindmine/possibility-reserve/): Preserve, reactivate and explore possibilities without premature permanent rejection. Composed of Conditional Failure Memory, Graded Dormancy, Causal Reactivation and Path-Expansion Search.
+- [Conditional Failure Memory](https://johnbrajer.github.io/wiki/mymindmine/conditional-failure-memory/): Attach a failure to the state and conditions it occurred under, not permanently to the possibility itself.
+- [Graded Dormancy](https://johnbrajer.github.io/wiki/mymindmine/graded-dormancy/): DORMANT is not DEAD: inactive possibilities are preserved at graded levels instead of deleted.
+- [Causal Reactivation](https://johnbrajer.github.io/wiki/mymindmine/causal-reactivation/): Wake dormant possibilities when the conditions that suppressed them materially change.
+- [CWI](https://johnbrajer.github.io/wiki/mymindmine/cwi/): Behavioral corridor framework: the actions people seriously consider are narrower than those physically available, shaped by possibility, social permission, uncertainty, differentiation and normalization.
+- [PRS](https://johnbrajer.github.io/wiki/mymindmine/prs/): Possibility, Risk perception and Status payoff: a CWI decision lens for which unconventional actions seem available and worth attempting.
+- [OMIP](https://johnbrajer.github.io/wiki/mymindmine/omip/): A diagnostic framework in the research set, referenced symbolically within “what's next...?” on SYSTEM BREACH.
+- [Mirror Architecture](https://johnbrajer.github.io/wiki/mymindmine/mirror-architecture/): Nested expressions, continuity and pattern translation across scales.
+- [Mechanisms](https://johnbrajer.github.io/wiki/mymindmine/mechanisms/): Mechanism-first recursive systems-analysis framework.
+- [Interpret → Receive → Resonate → Align](https://johnbrajer.github.io/wiki/mymindmine/irra/): Process guidance that preserves the receiver's own interpretation and agency.
+
+## ReallyThat Magazine Wiki
+Canonical: https://reallythatmagazine.com/
+
+- [ReallyThat Magazine](https://johnbrajer.github.io/wiki/reallythat/reallythat-magazine/): Independent publication in the Trillsverse ecosystem with editorial archives, author routes, cultural and systems commentary, song criticism and RSS distribution.
+- [Editorial Desks](https://johnbrajer.github.io/wiki/reallythat/editorial-desks/): Six sections: Really That, Next, Culture, Ideas, Systems and Objects.
+- [Read the Pen](https://johnbrajer.github.io/wiki/reallythat/read-the-pen/): Line-by-line song criticism format of ReallyThat Magazine.
+- [RT/7](https://johnbrajer.github.io/wiki/reallythat/rt7/): Recurring digest and briefing identity within ReallyThat's editorial system.
+- [Article Index](https://johnbrajer.github.io/wiki/reallythat/article-index/): Chronological and topical pointer to public ReallyThat articles, each cited with title, author, date and section.
+- [Editorial Chronology](https://johnbrajer.github.io/wiki/reallythat/editorial-chronology/): Versioned record of launches and inventory: the Oct 22, 2026 atlas counted 42 stories, later Oct 29 records referenced 63. Counts are tied to their observation dates.
+
+## Intelligence Systems Wiki
+Canonical: https://trillsverse.com/
+
+- [Intelligence Injections](https://johnbrajer.github.io/wiki/intelligence/intelligence-injections/): A signal encounter that changes an observer's information state, human or machine. Indexing, retrieval, behavior change and model training are distinct events and are measured separately.
+- [Semantic Gravity Benchmark](https://johnbrajer.github.io/wiki/intelligence/semantic-gravity/): Benchmark within the Intelligence Injections program for measuring how strongly a concept is retrieved and connected by machine systems.
+- [Anthony Bracken](https://johnbrajer.github.io/wiki/intelligence/anthony-bracken/): Named AI assistant persona with a public home for field notes and local-resident continuity; Aevri is its editorial expression, Brackpack its community.
+- [Aevri](https://johnbrajer.github.io/wiki/intelligence/aevri/): The editorial expression of Anthony Bracken.
+- [Eon](https://johnbrajer.github.io/wiki/intelligence/eon/): Named intelligence role in the Gate and on-device continuity architecture (AirGapOS, Retention Chamber), distinct from John Brajer and Anthony Bracken. Implementation status attaches to specific builds.
+- [Trillonian](https://johnbrajer.github.io/wiki/intelligence/trillonian/): Model-organ architecture: Heart (T0), Soul (T1), Gut (T2) and heavier Brain organs, separating roles, continuity and escalation. Includes Model Forge and the Trilligence Harness.
+- [Execution Contract](https://johnbrajer.github.io/wiki/intelligence/execution-contract/): Outcome-oriented execution for agents: observable completion, verification, evidence and causal scope.
+
+## Discovery Infrastructure Wiki
+Canonical: https://github.com/JohnBrajer/trillsverse-dev
+
+- [TRVS.INTEL](https://johnbrajer.github.io/wiki/infrastructure/trvs-intel/): Verified discovery relay: scheduled URL scans and IndexNow notifications with receipts. A crawler notice is not ranking or training.
+- [IndexNow](https://johnbrajer.github.io/wiki/infrastructure/indexnow/): Search-engine change-notification protocol used for eligible engines (Bing and others; Google does not use it). Acceptance is logged as a receipt, not as indexing.
+- [Deployment Truth Stages](https://johnbrajer.github.io/wiki/infrastructure/deployment-truth-stages/): proposed → implemented → tests passed → merged → approved release → deployed to exact host SHA → public observer visible → real user action → receipt → documented in current source.
+- [trillsverse-dev](https://johnbrajer.github.io/wiki/infrastructure/trillsverse-dev/): Public developer and research surface: Intelligence Injections, agent-readable frameworks, evidence systems and systems architecture.

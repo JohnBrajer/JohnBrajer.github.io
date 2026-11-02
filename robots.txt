@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://johnbrajer.github.io/wiki/sitemap.xml
